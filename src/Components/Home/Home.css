@@ -1,0 +1,115 @@
+/* General */
+.movies-page {
+  background: #0a0a0f;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+/* Hero Section */
+.hero {
+  background: url("https://www.plex.tv/wp-content/uploads/2025/03/Watch-Free-Share-Image-1024x576.png")
+  center/cover no-repeat;
+  height: 75vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.hero .overlay {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.82); /* dark transparent layer */
+  padding: 2rem;
+  border-radius: 15px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+}
+
+.explore-btn {
+  padding: 12px 25px;
+  font-size: 1rem;
+  font-weight: bold;
+  background: #e50914;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.explore-btn:hover {
+  background: #b0060f;
+  transform: scale(1.05);
+}
+
+
+/* Sections */
+.section {
+  padding: 2rem;
+}
+
+.section h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Movie Grid */
+.movies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.movie-card {
+  background: #1c1e22;
+  border-radius: 12px;
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.movie-card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.movie-card h3 {
+  padding: 0.8rem;
+  font-size: 1rem;
+}
+
+.movie-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
+}
+
+/* Categories */
+.categories {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.categories span {
+  background: #222;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.categories span:hover {
+  background: #e50914;
+}

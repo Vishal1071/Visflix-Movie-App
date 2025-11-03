@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Game of Thrones",
+    "id": "game-of-thrones",
+    "img_url": "https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "rating": "9.3",
+    "description": "Nine noble families fight for control over the lands of Westeros while an ancient enemy returns.",
+    "cast": ["Emilia Clarke", "Kit Harington", "Peter Dinklage"],
+    "genre": ["Fantasy", "Drama", "Action"],
+    "watch_url": "https://www.hotstar.com/in/shows/game-of-thrones/1971002880?search_query=game+of+th"
+  },
+  {
+    "name": "Iron Man",
+    "id": "iron-man",
+    "img_url": "https://image.tmdb.org/t/p/original/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "rating": "7.9",
+    "description": "Tony Stark builds a high-tech suit of armor to escape captivity and becomes Iron Man.",
+    "cast": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges"],
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "watch_url": "https://www.marvel.com/movies/iron-man"
+  },
+  {
+    "name": "Stranger Things",
+    "id": "stranger-things",
+    "img_url": "https://image.tmdb.org/t/p/original/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "rating": "8.7",
+    "description": "A group of kids uncover government secrets and supernatural forces in their small town.",
+    "cast": ["Millie Bobby Brown", "Finn Wolfhard", "David Harbour"],
+    "genre": ["Sci-Fi", "Mystery", "Horror"],
+    "watch_url": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "name": "Breaking Bad",
+    "id": "breaking-bad",
+    "img_url": "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "rating": "9.5",
+    "description": "A chemistry teacher turned meth producer partners with a former student to secure his family's future.",
+    "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+    "genre": ["Crime", "Drama", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/70143836"
+  },
+  {
+    "name": "Vikings",
+    "id": "vikings",
+    "img_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9155926_b_v10_au.jpg",
+    "rating": "8.5",
+    "description": "Follows the legendary Viking chieftain Ragnar Lothbrok and his crew.",
+    "cast": ["Travis Fimmel", "Katheryn Winnick", "Clive Standen"],
+    "genre": ["History", "Action", "Drama"],
+    "watch_url": "https://www.netflix.com/title/70301870"
+  },
+  {
+  "name": "Iron Fist",
+  "id": "iron-fist",
+  "img_url": "https://image.tmdb.org/t/p/original/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
+  "rating": "5.2",
+  "description": "Danny Rand returns to New York City after years, determined to reclaim his past and fulfill his destiny as the Iron Fist.",
+  "cast": ["Finn Jones", "Jessica Henwick", "Tom Pelphrey"],
+  "genre": ["Action", "Drama", "Fantasy"],
+  "watch_url": "https://www.netflix.com/title/80002612"
+  },
+  {
+    "name": "Dark",
+    "id": "dark",
+    "img_url": "https://image.tmdb.org/t/p/original/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "rating": "8.8",
+    "description": "A small town uncovers a time travel conspiracy that spans generations.",
+    "cast": ["Louis Hofmann", "Lisa Vicari", "Andreas Pietschmann"],
+    "genre": ["Sci-Fi", "Mystery", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/80100172"
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "id": "spider-man-no-way-home",
+    "img_url": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "rating": "8.3",
+    "description": "Peter Parker's secret identity is revealed, and he turns to Doctor Strange for help.",
+    "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+    "genre": ["Action", "Adventure", "Superhero"],
+    "watch_url": "https://www.sonypictures.com/movies/spidermannowayhome"
+  },
+  {
+    "name": "Thor: Ragnarok",
+    "id": "thor-ragnarok",
+    "img_url": "https://image.tmdb.org/t/p/original/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+    "rating": "7.9",
+    "description": "Thor must escape the alien planet Sakaar in time to save Asgard from Hela.",
+    "cast": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett"],
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "watch_url": "https://www.marvel.com/movies/thor-ragnarok"
+  },
+  {
+    "name": "Loki",
+    "id": "loki",
+    "img_url": "https://image.tmdb.org/t/p/original/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+    "rating": "8.2",
+    "description": "Loki steps out of his brother's shadow and embarks on a journey across time.",
+    "cast": ["Tom Hiddleston", "Sophia Di Martino", "Owen Wilson"],
+    "genre": ["Sci-Fi", "Drama", "Superhero"],
+    "watch_url": "https://www.disneyplus.com/series/loki/6pARMvILBGzF"
+  },
+  {
+  "name": "Inhumans",
+  "id": "inhumans",
+  "img_url": "https://image.tmdb.org/t/p/original/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+  "rating": "4.9",
+  "description": "After a coup, the Royal Family of Inhumans is split and must find a way to reunite and save their people.",
+  "cast": ["Anson Mount", "Serinda Swan", "Iwan Rheon"],
+  "genre": ["Action", "Adventure", "Sci-Fi"],
+  "watch_url": "https://www.disneyplus.com/series/marvels-inhumans/4rgJdw6MtF8p"
+  },
+  {
+    "name": "Locke & Key",
+    "id": "locke-and-key",
+    "img_url": "https://images.justwatch.com/poster/252540701/s718/locke-and-key.jpg",
+    "rating": "7.3",
+    "description": "After their father is murdered, the Locke kids discover magical keys in their ancestral home.",
+    "cast": ["Darby Stanchfield", "Connor Jessup", "Emilia Jones"],
+    "genre": ["Fantasy", "Drama", "Mystery"],
+    "watch_url": "https://www.netflix.com/title/80241239"
+  }
+]
